@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Saran karthick 
 
-<!--
-**saran-612/saran-612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am an engineering student and a passionate developer.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on Freelance projects.
+- 🌱 I’m learning UI/UX and exploring AIML.
+- 👯 I’m looking to collaborate on open-source projects.
+- 🤔 I’m looking for help with project deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages**: Python, C, JavaScript ,.
+- **Frameworks**: React, Django ,. 
+- **Tools**: Figma, Git, Docker, Visual Studio Code ,.
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saran-612&show_icons=true)
+
+
+## 🌍 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/saran-karthick)
+- [Instagram](https://www.instagram.com/saran_06.12)
+
+## 📫 How to reach me
+- Email: sarananandaraj@gmail.com
