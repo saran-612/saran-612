@@ -13,9 +13,6 @@ Welcome to my GitHub profile! I am an engineering student and a passionate devel
 - **Frameworks**: React, Django ,. 
 - **Tools**: Figma, Git, Docker, Visual Studio Code ,.
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saran-612&show_icons=true)
-
 ##Portfolio
 - [Portfolio](https://saran-612.github.io/portfolio/main.html)
 
@@ -25,3 +22,6 @@ Welcome to my GitHub profile! I am an engineering student and a passionate devel
 
 ## 📫 @reach me
 - Email: sarananandaraj@gmail.com
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saran-612&show_icons=true)
