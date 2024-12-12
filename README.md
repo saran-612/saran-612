@@ -16,10 +16,12 @@ Welcome to my GitHub profile! I am an engineering student and a passionate devel
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saran-612&show_icons=true)
 
+##Portfolio
+- [Portfolio](https://saran-612.github.io/portfolio/main.html)
 
 ## 🌍 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/saran-karthick)
+- [LinkedIn](https://www.linkedin.com/in/saran-karthick-1b2a51329/)
 - [Instagram](https://www.instagram.com/saran_06.12)
 
-## 📫 How to reach me
+## 📫 @reach me
 - Email: sarananandaraj@gmail.com
