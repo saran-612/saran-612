@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I am an engineering student and a passionate devel
 
 ## 🌍 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/saran-karthick-1b2a51329/)
-- [Instagram](https://www.instagram.com/saran_06.12)
 
 ## 📫 @reach me
 - Email: sarananandaraj@gmail.com
