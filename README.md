@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am an engineering student and a passionate devel
 - **Tools**: Figma, Git, Docker, Visual Studio Code ,.
 
 ## Portfolio
-- [Portfolio](https://saran-612.github.io/portfolio/main.html)
+- [Portfolio](https://saran612.github.io/)
 
 ## 🌍 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/saran-karthick-1b2a51329/)
