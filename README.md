@@ -3,15 +3,14 @@
 Welcome to my GitHub profile! I am an engineering student and a passionate developer.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on Freelance projects.
-- 🌱 I’m learning UI/UX and exploring AIML.
+- 🔭 I’m currently pursuing a BTech in Computer Science and Business Systems (CSBS) .
+- 🌱 I’m learning UI/UX and exploring AI &  ML.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with project deployment.
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, C, JavaScript ,.
-- **Frameworks**: React, Django ,. 
-- **Tools**: Figma, Git, Docker, Visual Studio Code ,.
+- **Languages**: Python, C.
+- **Tools**: Figma, Git,github, Visual Studio Code ,.
 
 ## Portfolio
 - [Portfolio](https://saran612.github.io/)
